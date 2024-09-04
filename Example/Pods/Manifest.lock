@@ -1,5 +1,5 @@
 PODS:
-  - ImageCoreEngineTool (0.1.0)
+  - ImageCoreEngineTool (0.2.0)
 
 DEPENDENCIES:
   - ImageCoreEngineTool (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ImageCoreEngineTool: cb6e8d3815f31e4708c6fa8b68412a2947f2085b
+  ImageCoreEngineTool: 95c1cbfa8856cc98de25f2f184a78eb0ef006990
 
 PODFILE CHECKSUM: 39639490eaf173063b07054dd7d286cdee0c26d4
 
