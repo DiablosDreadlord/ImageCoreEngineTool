@@ -1,0 +1,16 @@
+PODS:
+  - ImageCoreEngineTool (0.1.0)
+
+DEPENDENCIES:
+  - ImageCoreEngineTool (from `../`)
+
+EXTERNAL SOURCES:
+  ImageCoreEngineTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageCoreEngineTool: cb6e8d3815f31e4708c6fa8b68412a2947f2085b
+
+PODFILE CHECKSUM: 39639490eaf173063b07054dd7d286cdee0c26d4
+
+COCOAPODS: 1.15.2

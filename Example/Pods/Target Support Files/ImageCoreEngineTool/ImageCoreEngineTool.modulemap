@@ -1,0 +1,6 @@
+framework module ImageCoreEngineTool {
+  umbrella header "ImageCoreEngineTool-umbrella.h"
+
+  export *
+  module * { export * }
+}
